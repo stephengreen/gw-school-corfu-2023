@@ -10,7 +10,7 @@ The tutorial works in a simplified setup, inferring just the two mass parameters
 
 To get started quickly, run the tutorial in Google Colab by clicking the button above. To run it locally (which may be faster), ensure that you create and activate a Python environment with the required packages. If using `conda`, this can be done with
 ```
-conda create -c conda-forge -n gwml python=3.10 pytorch lalsuite corner numpy matplotlib jupyterlab
+conda create -c conda-forge -n gwml python=3.10 pytorch lalsuite glasflow corner numpy matplotlib jupyterlab
 conda activate gwml
 ```
 
